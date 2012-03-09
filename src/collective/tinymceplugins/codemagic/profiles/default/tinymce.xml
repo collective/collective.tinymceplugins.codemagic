@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<object>
+ <resourcetypes>
+  <customplugins>
+    <element value="codemagic|/tinymce_codemagic/editor_plugin.js"/>
+  </customplugins>
+ </resourcetypes>
+
+ <toolbar>
+  <customtoolbarbuttons>
+   <element value="codemagic"/>
+  </customtoolbarbuttons>
+ </toolbar>
+</object>
