@@ -3,7 +3,8 @@
     xmlns:cmf="http://namespaces.zope.org/cmf">
 
   <cmf:registerDirectory
-      name="tinymce_codemagic_plugins"/>
+      name="tinymce_codemagic_plugins"
+      recursive="True" />
 
 </configure>
 

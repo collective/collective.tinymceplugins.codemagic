@@ -3,7 +3,7 @@ Changelog
 
 1.x (Unreleased)
 ----------------
-
+ - added recursive attribute in skins registration see.: http://collective-docs.readthedocs.org/en/latest/templates_css_and_javascripts/skin_layers.html
  - Minor css fixes
  - Added italian translation
  [gborelli]
